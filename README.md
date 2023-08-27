@@ -2,12 +2,8 @@
 
 A quick guide to my Project ->
 
-<<<<<<< HEAD
 <img src ="/image.webp">
 
-
-=======
->>>>>>> 2792aba294b9d9ca246e12f6be27fc053ae1945c
 ## Tools Used
 
 - NodeJs
